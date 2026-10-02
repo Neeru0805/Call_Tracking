@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Call Tracking — Background Location Service
 
 A production-grade Flutter application demonstrating persistent background location tracking using **GetX (MVC Architecture)** and **Native Android (Kotlin)** with `FusedLocationProviderClient`, native **SQLite Database**, **Foreground Service**, and **Boot Auto-Start capabilities**.
@@ -152,3 +153,6 @@ flutter build apk --debug
    - Ensure location service is started.
    - Restart the device (`adb reboot`).
    - Upon reboot, `BootReceiver` will trigger `LocationForegroundService` automatically.
+=======
+# Call_Tracking
+>>>>>>> b44eac4cc00d0bddc98a95febb3e75a3bea285b6
